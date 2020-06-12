@@ -16,14 +16,7 @@
     "import/no-unresolved": [
       "error",
       {
-        "ignore": [
-          "^react$",
-          "^react-dom$",
-          "^react-jss$",
-          "^react-sizes$",
-          "^theming$",
-          "^prop-types$"
-        ]
+        "ignore": ["^react$", "^react-dom$", "^prop-types$"]
       }
     ],
     "prettier/prettier": "error",
